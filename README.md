@@ -15,5 +15,5 @@
 [Live website]https://lloret82.github.io/Horiseon_Code_Refactor_Homework_1/
 
 ## Code Screenshots
-[HTML code](/assets/Screenshots/Screenshot_2.png)
+![HTML code](/assets/Screenshots/Screenshot_2.png)
 
