@@ -2,13 +2,13 @@
 
 ## Table of Contents
 
-[Description](#Description)
-[Links](#links)
-[Screenshot](#Screenshots)
-[Installation](#installation)
-[Usage](#Usage)
-[Licence](#Licence)
-[Badge](#Badge)
+* [Description](#Description)
+* [Links](#links)
+* [Screenshots](#Screenshots)
+* [Installation](#installation)
+* [Usage](#Usage)
+* [Licence](#Licence)
+* [Badge](#Badge)
 
 ## Description
 
@@ -61,6 +61,6 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE._
 
 ## Badge
-![HTML badge](/assets/badge/html5.svg)
-![HTML badge](/assets/badge/css3.svg)
+![badge](https://img.shields.io/amo/rating/5?style=plastic)
+![badge](https://img.shields.io/github/release-date/lloret82/Horiseon_Code_Refactor_Homework_1)
 
