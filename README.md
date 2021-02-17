@@ -1,5 +1,6 @@
 # Horiseon website code refactor
 ## Description
+
 ### The client requested a code refactor for the Horiseon website homepage. The main reason of this refactoring is to make the previous code more accessible. The mod does not change the styling of the page.
 
 ## What has been done
@@ -11,9 +12,14 @@
 * Changed the title that was too generic "website"
 
 ## Links
-[Code Repository](https://github.com/Lloret82/Horiseon_Code_Refactor_Homework_1)
-[Live website](https://lloret82.github.io/Horiseon_Code_Refactor_Homework_1/)
+* [Code Repository](https://github.com/Lloret82/Horiseon_Code_Refactor_Homework_1)
+* [Live website](https://lloret82.github.io/Horiseon_Code_Refactor_Homework_1/)
 
 ## Code Screenshots
 ![HTML code](/assets/Screenshots/Screenshot_2.png)
+![CSS code](/assets/Screenshots/Screenshot_1.png)
+
+## Installation
+
+### Installation not needed
 
