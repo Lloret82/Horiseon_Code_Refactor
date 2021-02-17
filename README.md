@@ -62,5 +62,5 @@ SOFTWARE._
 
 ## Badge
 ![badge](https://img.shields.io/amo/rating/5?style=plastic)
-![badge](https://img.shields.io/github/release-date/lloret82/Horiseon_Code_Refactor_Homework_1)
+![badge](https://img.shields.io/github/release-date/Lloret82/Horiseon_Code_Refactor_Homework_1)
 
