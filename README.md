@@ -1,7 +1,7 @@
 # Horiseon website code refactor
 ## Description
 
-### The client requested a code refactor for the Horiseon website homepage. The main reason of this refactoring is to make the previous code more accessible. The mod does not change the styling of the page.
+### _The client requested a code refactor for the Horiseon website homepage. The main reason of this refactoring is to make the previous code more accessible. The mod does not change the styling of the page._
 
 ## What has been done
 * Classes in style.css were consolidated
@@ -21,5 +21,5 @@
 
 ## Installation
 
-### Installation not needed
+### _Installation not needed_
 
