@@ -26,7 +26,7 @@
 * [Code Repository](https://github.com/Lloret82/Horiseon_Code_Refactor_Homework_1)
 * [Live website](https://lloret82.github.io/Horiseon_Code_Refactor_Homework_1/)
 
-## Code Screenshots
+## Screenshots
 ![HTML code](/assets/Screenshots/Screenshot_2.png)
 ![CSS code](/assets/Screenshots/Screenshot_1.png)
 
